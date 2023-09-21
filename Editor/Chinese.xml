@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ChineseLanguage>
+  <Scene>场  景</Scene>
+  <Sprite3D>预  设</Sprite3D>
+  <MeshSetting> 模 型 设 置 </MeshSetting>
+  <IgnoreVerticesUV> 忽 略 顶 点 UV</IgnoreVerticesUV>
+  <IgnoreVerticesColor> 忽 略 顶 点 颜 色</IgnoreVerticesColor>
+  <IgnoreVerticesNormal> 忽 略 顶 点 法 线</IgnoreVerticesNormal>
+  <IgnoreVerticesTangent> 忽 略 顶 点 切 线</IgnoreVerticesTangent>
+  <AutoVerticesUV1> 自 动 生 成 UV1</AutoVerticesUV1>
+  
+  <GameObjectSetting> 节 点 设 置 </GameObjectSetting>
+  <IgnoreNotActiveGameObjects> 忽 略 未 激 活 节 点 </IgnoreNotActiveGameObjects>
+  <BatchMakeTheFirstLevelGameObjects> 批 量 导 出 一 级 节 点 </BatchMakeTheFirstLevelGameObjects>
+ 
+  <OtherSetting> 其 他 设 置 </OtherSetting>
+  <CustomizeExportRootDirectoryName> 自 定 义 导 出 根 目 录 名</CustomizeExportRootDirectoryName>
+  <SavePathcannotbeempty>                   保 存 路 径 不 能 为 空 </SavePathcannotbeempty>
+  <SavePath> 导 出 路 径 </SavePath>
+  <Browse> 浏 览 </Browse>
+  <ClearConfig> 恢 复 配 置 </ClearConfig>
+ 
+  <LayaAirExport> 导 出 </LayaAirExport>
+
+  <Exportaddresscannotbeempty> 导 出 地 址 不 能 为 空</Exportaddresscannotbeempty>
+ 
+</ChineseLanguage>
