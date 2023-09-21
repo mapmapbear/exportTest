@@ -13,7 +13,7 @@
   },
   "documentationUrl": "https://layaair.com/3.x/doc/3D/advanced/Unity/readme.html",
   "repository": {
-    "url": "git@github.cds.internal.unity3d.com:unity/burst",
+    "url": "https://github.com/mapmapbear/exportTest.git",
     "type": "git",
     "revision": "bb1b4d47b1ec7329494513f05c8bd5e6238ddbbc"
   },
