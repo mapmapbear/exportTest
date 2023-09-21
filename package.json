@@ -15,7 +15,7 @@
   "repository": {
     "url": "git@github.cds.internal.unity3d.com:unity/burst",
     "type": "git",
-    "revision": "47aa5e222ec0a9e94b78af0bb63021cf722ad06b"
+    "revision": "bb1b4d47b1ec7329494513f05c8bd5e6238ddbbc"
   },
   "author": {
     "name": "LayaBox",
