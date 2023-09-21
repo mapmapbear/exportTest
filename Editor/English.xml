@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EnglishLanguage>
+  <Scene>Scene3D</Scene>
+  <Sprite3D>Sprite3D</Sprite3D>
+  <MeshSetting> Mesh Setting</MeshSetting>
+  <IgnoreVerticesUV> Ignore Vertices UV</IgnoreVerticesUV>
+  <IgnoreVerticesColor> Ignore Vertices Color</IgnoreVerticesColor>
+  <IgnoreVerticesNormal> Ignore Vertices Normal</IgnoreVerticesNormal>
+  <IgnoreVerticesTangent> Ignore Vertices Tangent</IgnoreVerticesTangent>
+  <AutoVerticesUV1> Auto Vertices UV1</AutoVerticesUV1>
+ 
+  <GameObjectSetting> GameObject Setting</GameObjectSetting>
+  <IgnoreNotActiveGameObjects> Ignore Not Active Game Objects</IgnoreNotActiveGameObjects>
+  <BatchMakeTheFirstLevelGameObjects> Batch Make The First Level Game Objects</BatchMakeTheFirstLevelGameObjects>
+
+  <OtherSetting> Other Setting</OtherSetting>
+  <CustomizeExportRootDirectoryName> Customize Export Root Directory Name</CustomizeExportRootDirectoryName>
+  <SavePathcannotbeempty>                   Save Path cannot be empty</SavePathcannotbeempty>
+  <SavePath>Save Path</SavePath>
+  <Browse>Browse</Browse>
+  <ClearConfig>Revert Config</ClearConfig>
+ 
+  <LayaAirExport>Export </LayaAirExport>
+  
+  <Exportaddresscannotbeempty>Export address cannot be empty</Exportaddresscannotbeempty>
+ 
+</EnglishLanguage>
